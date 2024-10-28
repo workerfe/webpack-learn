@@ -1,0 +1,1 @@
+{"version":3,"file":"build.js","mappings":";;;;AAAA,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,CAACA,GAAG,CAAC,UAAAC,CAAC;EAAA,OAAIA,CAAC,GAAE,CAAC;AAAA,EAAC,C","sources":["webpack:///./src/index.js"],"sourcesContent":["[1, 2, 3].map(v => v +1)"],"names":["map","v"],"sourceRoot":""}
