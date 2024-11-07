@@ -1,0 +1,1 @@
+!function(){"use strict";var o,l={b:2};console.log(null==l?void 0:l.b),console.log("hello world"),console.log([1,2,3].includes(4)),function(o){o[o.Red=0]="Red"}(o||(o={})),console.log(o.Red)}();
